@@ -18,6 +18,7 @@
         <module>AspectJSpringjdbc</module>
         <module>SpringJDBC</module>
         <module>springcloudexample</module>
+        <module>HybernateSpringMVC</module>
     </modules>
 
 </project>

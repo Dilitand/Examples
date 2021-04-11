@@ -13,6 +13,7 @@
         <module name="spring-cloud-config-git-repo-example" />
         <module name="AspectJSpringjdbc" />
         <module name="SpringJDBC" />
+        <module name="HybernateSpringMVC" />
         <module name="HybernateSpringXml" />
         <module name="springcloudserver" />
         <module name="jpa" />
