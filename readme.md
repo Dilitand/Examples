@@ -1,6 +1,6 @@
 Примеры реализаций
 
-1. Spring xml - Спринг с xml
+1. <a href = "https://github.com/Dilitand1/Examples/tree/master/SpringXml">Spring xml</a> - Спринг с xml
 2. Hybernate xml - Гибернейт с xml
 3. HybernateSpringXml - Гибернаэйт на аннатоациях + спринг на xml.
 4. JPA - Пример реалзизации java persistence API
